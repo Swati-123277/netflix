@@ -1,0 +1,1 @@
+The Netflix dataset, consisting of over 8,000 records, requires preprocessing steps including handling missing values, removing duplicates using the drop_duplicates() method, and validating data types—converting them to the correct format where necessary.
